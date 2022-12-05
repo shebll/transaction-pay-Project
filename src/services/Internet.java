@@ -1,5 +1,5 @@
 package services;
 
-public class Internet extends services {
+public class Internet extends Services  {
 
 }

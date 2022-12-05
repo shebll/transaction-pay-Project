@@ -1,5 +1,5 @@
 package services;
 
-public class Donations extends services {
+public class Donations extends Services {
 
 }

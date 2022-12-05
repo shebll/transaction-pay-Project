@@ -44,11 +44,6 @@ public class User extends account  {
 		System.out.println();
 		
 	}
-
-	
-	
-	
-	
 	
 	
 }
