@@ -1,5 +1,5 @@
 package services;
 
-public class MobileRecharge extends services {
+public class MobileRecharge extends Services {
 
 }

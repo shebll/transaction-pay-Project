@@ -1,5 +1,5 @@
 package services;
 
-public class Landline extends services {
+public class Landline extends Services  {
 
 }
